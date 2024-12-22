@@ -16,7 +16,7 @@ I’m currently seeking opportunities to apply my skills as a **Data Analyst**. 
 📍 Based in **Paris, France**  
 🤝 Open to new job opportunities and exciting collaborations.
 
-## 🎯 Fun Fact About Me
+## 🎯 My approach to learning
 I’m an eternal learner, always looking for the next challenge or technology to master. From bootcamp graduate to data enthusiast, I believe in the power of data to transform the world.
 
 ## 📬 How to Reach Me
