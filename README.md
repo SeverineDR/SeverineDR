@@ -8,9 +8,16 @@ I’m a passionate **Data Analyst** with a keen interest in **Artificial Intelli
 - **Data Visualization Tools**: Tableau, Power BI, Looker Studio  
 - **Data Analytics Tools**: Big Query, dbt, Google Analytics, Advanced Excel 
  
+## 🚀 My Recent Project
+### "Investments: Winners of Today and Tomorrow"
+During the Le Wagon Bootcamp, I worked on an exciting data-driven project aimed at analyzing and optimizing investment strategies. The project focused on:
+- **Comparing Investment Options**: Analyzed historical data for various investment types, including stocks, real estate, bonds, and gold.
+- **Data Collection and Processing**: Utilized tools like Python, Yahoo Finance API, and government open data to clean, process, and visualize datasets. 
+- **Simulations and Projections**: Implemented models such as Monte Carlo simulations and machine learning techniques to predict investment performance for the next decade.
+- **Interactive Insights**: Created actionable visualizations to help users understand potential risks and returns for different investment portfolios.
 
-## 🚀 What I’m Working On
-I’m currently seeking opportunities to apply my skills as a **Data Analyst**. I’m eager to contribute to impactful projects, collaborate with innovative teams, and continue growing in the field of AI and data analytics.
+**Key Tools Used**: Python, Tableau, SQL, Monte Carlo simulation, and Prophet models for forecasting.  
+This project showcased my ability to handle complex datasets, perform advanced analyses, and deliver insights that make a real-world impact.
 
 ## 🌍 Location
 📍 Based in **Paris, France**  
